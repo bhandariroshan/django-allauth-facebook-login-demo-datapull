@@ -9,7 +9,7 @@
 1. Clone the repo.
 2. cd fbstats
 3. pip install -r requirements.txt
-4. create mysql database fbstats.
+4. create postgres database fbstats.
 5. python manage.py migrate
 6. python manage.py runserver
 7. View 127.0.0.1:8000 on your browser.
